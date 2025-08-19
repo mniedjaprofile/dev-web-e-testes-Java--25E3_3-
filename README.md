@@ -14,7 +14,4 @@ Abaixo estão os principais tópicos e tecnologias abordadas ao longo da discipl
 - **Testes de Software:** Testes unitários, de integração e de API com frameworks como JUnit.
 
 
-## 🚀 Como Executar os Projetos
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/repositorio-25E3_3.git
+
