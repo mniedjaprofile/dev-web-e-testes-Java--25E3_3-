@@ -1,7 +1,7 @@
-package com.empresa.folha.service;
+package com.mensalista.api.service;
 
-import com.empresa.folha.model.Mensagem;
-import java.time.Instant;
+import com.mensalista.api.model.Mensagem;
+
 import java.time.ZoneId;
 import java.time.ZonedDateTime;
 import java.time.format.DateTimeFormatter;

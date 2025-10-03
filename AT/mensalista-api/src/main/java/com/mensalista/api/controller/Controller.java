@@ -1,7 +1,7 @@
-package com.empresa.folha.controller;
+package com.mensalista.api.controller;
 
-import com.empresa.folha.model.Mensagem;
-import com.empresa.folha.service.Service;
+import com.mensalista.api.model.Mensagem;
+import com.mensalista.api.service.Service;
 import io.javalin.Javalin;
 
 public class Controller {

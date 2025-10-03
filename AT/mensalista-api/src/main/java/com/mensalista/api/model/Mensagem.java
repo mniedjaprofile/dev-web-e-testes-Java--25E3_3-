@@ -1,4 +1,4 @@
-package com.empresa.folha.model;
+package com.mensalista.api.model;
 
 public class Mensagem {
     private String mensagem;
